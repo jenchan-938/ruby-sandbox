@@ -7,6 +7,7 @@ require "date"
 #gem install activesupport  << needed to put this into the code first ; syntax is always "gem install
 # require will then link to the other file and print it out as well; used for collaboration 
 # bring in classes that people from the community written 
+#
 
 
 pp "Hello there! What's your name?"
